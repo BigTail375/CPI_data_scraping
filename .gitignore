@@ -2,8 +2,10 @@
 *.zip
 *.csv
 *.xlsx
+*.txt
 
 txt/
 table/
 CPI_Homepage/
 csv/
+dpi/
